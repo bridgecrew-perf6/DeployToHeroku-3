@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "type": "aws-sam",
+      "request": "direct-invoke",
+      "name": "ch7:ProcessFormFunction",
+      "invokeTarget": {
+        "target": "template",
+        "templatePath": "/Users/jinhwankim/Downloads/20200123-javascript/ch7/template.yaml",
+        "logicalId": "ProcessFormFunction"
+      },
+      "lambda": {
+        "payload": {},
+        "environmentVariables": {}
+      }
+    }
+  ]
+}
