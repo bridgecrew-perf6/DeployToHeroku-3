@@ -1,1 +1,1 @@
-A sample application for the Running Serverless book tutorial
+GraphQL Server and PostgreSQL Deployment to Heroku
